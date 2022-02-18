@@ -1,0 +1,110 @@
+{
+    "devs"  :[
+        {
+            "id"     : 1,
+            "name"   :"Sheik Somrat",
+            "age"    : 21,
+            "skill"  :"MERN stack",
+            "location" :"Bogura"
+        },
+        {
+            "id"     : 2,
+            "name"   :"Sabbir Hosan",
+            "age"    : 23,
+            "skill"  :"Full stack",
+            "location" :"Ranhpur"
+        },
+        {
+            "id"     : 3,
+            "name"   :"Mamun ISlam",
+            "age"    : 25,
+            "skill"  :"MERN stack",
+            "location" :"Dhaka"
+        },
+        {
+            "id"     : 4,
+            "name"   :"Tanvir Hossain",
+            "age"    : 21,
+            "skill"  :"Wp developer",
+            "location" :"Jessore"
+        },
+        {
+            "id"     : 5,
+            "name"   :"Jihad",
+            "age"    : 21,
+            "skill"  :"Grapic Designer",
+            "location" :"Naogan"
+        }
+    ],
+    "products" :[
+        {
+            "name"     : "alu",
+            "catagory" :"vagatable",
+            "price"    :10,
+            "photo"    :"https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg"
+        },
+        {
+            "name"     : "misty",
+            "catagory" :"suger",
+            "price"    :220,
+            "photo"    :"https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg"
+            
+        },
+        {
+            "name"     : "t-shirt",
+            "catagory" :"shop",
+            "price"    :850,
+            "photo"    :"https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg"
+        },
+        {
+            "name"     : "mango",
+            "catagory" :"food",
+            "price"    :50,
+            "photo"    :"https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg"
+        },
+        {
+            "name"     : "oil",
+            "catagory" :"laquid",
+            "price"    :180,
+            "photo"    :"https://upload.wikimedia.org/wikipedia/commons/a/ab/Patates.jpg"
+        } 
+    ],
+    "students"  :[
+        {
+            "id"   :1,
+            "name" :"sumona",
+            "gender" :"female",
+            "class"  :"five",
+            "result"  :"Gpa5"
+        },
+        {
+            "id"   :2,
+            "name" :"Nomi",
+            "gender" :"female",
+            "class"  :"seven",
+            "result"  :"Gpa5"
+        },
+        {
+            "id"   :3,
+            "name" :"srabon",
+            "gender" :"male",
+            "class"  :"one",
+            "result"  :"Gpa5"
+        },
+        {
+            "id"   :4,
+            "name" :"indro",
+            "gender" :"male",
+            "class"  :"eight",
+            "result"  :"Gpa5"
+        },
+        {
+            "id"   :5,
+            "name" :"riplicka",
+            "gender" :"female",
+            "class"  :"five",
+            "result"  :"Gpa5"
+        }
+        
+    ]
+}

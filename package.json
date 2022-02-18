@@ -1,0 +1,14 @@
+{
+  "name": "api",
+  "version": "1.0.0",
+  "description": "This is my fast api creation",
+  "main": "index.js",
+  "scripts": {
+    "somrat" :"json-server --watch db.json --port 5050"
+  },
+  "author": "somrat99",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  }
+}
